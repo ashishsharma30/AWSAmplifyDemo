@@ -1,0 +1,2 @@
+rootProject.name='AWSAmplifyDemo'
+include ':app'
